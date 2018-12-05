@@ -54,10 +54,10 @@
       <name>Mybatis GitHub Pages</name>
       <url>git:ssh://git@github.com/mybatis/jpetstore-6.git?gh-pages#</url>
     </site>
-    <repository>
+    <snapshotRepository>
      <id>nexus</id>
      <url>http://13.233.207.112:8081/nexus/content/repositories/nexus</url>
-   </repository>     
+   </snapshotRepository>     
   </distributionManagement>   
        
   <dependencies>
