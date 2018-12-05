@@ -56,13 +56,12 @@
     </site>
   </distributionManagement>
   <distributionManagement>
-  <repository>
-    <id>nexus</id>
-    <url>http://13.233.207.112:8081/nexus/content/repositories/nexus</url>
-  </repository>
-</distributionManagement>
+   <repository>
+     <id>nexus</id>
+     <url>http://13.233.207.112:8081/nexus/content/repositories/nexus</url>
+   </repository>
+  </distributionManagement>     
        
-
   <dependencies>
     <dependency>
       <groupId>commons-logging</groupId>
